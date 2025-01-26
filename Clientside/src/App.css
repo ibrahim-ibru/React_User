@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  background-image: url("./assets/beach-house-full-moon-scenery-digital-art-4k-wallpaper-uhdpaper.com-654@2@b.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.adduser-body{
+  height: 40vh;
+  width: 30%;
+  padding: 5%;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 30px;
+  background-color: rgba(66, 124, 175, 0.461);
+}
+
+.adduser-body input{
+  /* height: 28px; */
+  width: 290px;
+  padding: 10px 10px;
+  margin:3% 13%;
+  border-radius: 10px;
+  border: 2px solid rgb(39, 141, 229);
+}
+
+.btn-add{
+  height: 30px;
+  width: 100px;
+  margin: 0 160px ;
+  border-radius: 5px;
+  font-weight: 600;
+  background-color: rgb(115, 158, 201);
+  color: white;
+  border: 2px solid rgb(61, 154, 236);
+}
+
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.navbar{
+  height: 50px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.443);
+}
+
+.navbar h1{
+  margin: 0;
+}
